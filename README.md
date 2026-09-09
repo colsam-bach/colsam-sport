@@ -43,3 +43,7 @@ Desarrollar una plataforma digital que programe, administre e informe sobre los 
 * Leyner Barboza - Grado 11-1
 * Andres Bustamante - Grado 11-1
 * Luis Uribe - Grado 11-1
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/sbetancourt-god/Rein-Vo-.git](https://github.com/sbetancourt-god/Rein-Vo-.git)
