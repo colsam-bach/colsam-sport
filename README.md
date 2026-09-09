@@ -17,12 +17,6 @@ Desarrollar una plataforma digital que programe, administre e informe sobre los 
 * HTML5 y CSS3
 * Git y GitHub
 
-## Estado del Proyecto
-Fase 1: Estructuración de la plataforma web y publicación de repositorios base.
-
-## Descripción General
-Portal web oficial del proyecto de grado enfocado en el registro y visualización de datos de los intercursos con sus respectivos deportes e informacion general en la institucion.
-
 ## Problema Identificado
 la mala organización de los intercursos en el horario en que se juegan los partidos, un mal arbitaje y el poco tiempo q dura el torneo en cualquier deporte.  
 
@@ -33,8 +27,16 @@ Desarrollar una plataforma digital que programe, administre e informe sobre los 
 * HTML5 y CSS3
 * Git y GitHub
 
-## Estado del Proyecto
-Fase 1: Estructuración de la plataforma web y publicación de repositorios base.
+## Características principales
+- resultados en vivo
+- visualización publica
+- registro de jugadores
+
+## Requisitos previos
+ - Navegador Web Moderno: Google Chrome, Mozilla Firefox, Microsoft Edge o Safari (versiones recientes).
+ - Conexión a Internet: Requerida para sincronizar los datos en tiempo real y cargar dependencias CDN (Tailwind CSS, Lucide Icons y Google Fonts).
+ - JavaScript Habilitado: En el navegador web.
+
 
 
 ## Integrantes del Equipo
