@@ -1,7 +1,7 @@
 # colsam-sport
 
 
-# Sistema de Monitoreo Ambiental Escolar
+# Sistema de Monitoreo deportivo Escolar
 
 
 ##Descripcion
